@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A43A7359-B60C-4B6B-94DE-D411F32EF185"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD0C5ACD-E061-43FD-93B5-18D0E33A9369"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first/Model/picture.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Picture"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FD0C5ACD-E061-43FD-93B5-18D0E33A9369 - c1160b4a0fe848b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first.Picture.id.getter : Swift.Int"
+                  moduleName = "first"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasanjay/Desktop/first/first/Model/picture.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "FD0C5ACD-E061-43FD-93B5-18D0E33A9369 - 9ca00351254f7c1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first.Picture.id.setter : Swift.Int"
+                  moduleName = "first"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasanjay/Desktop/first/first/Model/picture.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "FD0C5ACD-E061-43FD-93B5-18D0E33A9369 - 87561a4895d1ccc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first.Picture.init() -&gt; first.Picture"
+                  moduleName = "first"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vasanjay/Desktop/first/first/Model/picture.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
